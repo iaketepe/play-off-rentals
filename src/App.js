@@ -1,7 +1,7 @@
 import logo from './logo.png';
 import './App.css';
 
-function App() {
+export function App() {
   return (
     <div className="App">
       <div class="formlike">
@@ -10,11 +10,11 @@ function App() {
                     <div class="container-fluid">
                         <img src={logo} class="logo" alt="Play Off Rentals Logo" />
                         <div>
-                            <a class="nav-items" href="index.html">Home</a>
-                            <a class="nav-items" href="#Projects">Inventory</a>
-                            <a class="nav-item-button" href="index.html">Rent</a>
+                            <a class="nav-items" href="/">Home</a>
+                            <a class="nav-items" href="/en/Inventory">Inventory</a>
+                            <a class="nav-item-button" href="/en/Rent">Rent</a>
                             <a class="nav-items" href="resume.html">Fr</a>
-                            <a class="nav-items button-contact" href="#ContactUs">Contact Us</a>
+                            <a class="nav-items button-contact" href="/en/Contact">Contact Us</a>
                         </div>
                         <img src={logo} class="logo" alt="Play Off Rentals Logo" />
                     </div>
@@ -88,4 +88,4 @@ function App() {
   );
 }
 
-export default App;
+//export default App;
