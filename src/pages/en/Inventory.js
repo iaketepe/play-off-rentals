@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from '../../logo.png';
 import pacimg from '../pacimg.jpg';
 import rrimg from '../rrimgv2.jpg';
