@@ -5,6 +5,9 @@ export function App() {
   return (
     <div className="App">
       <div class="formlike">
+        <link rel="preconnect" href="https://fonts.googleapis.com"></link>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"></link>
         <header>
           <nav class="new-nav navbar navbar-expand-lg navbar-light">
                     <div class="container-fluid">
@@ -21,9 +24,9 @@ export function App() {
           </nav>
         </header>
         <body class="row bodylike">
-          <div class="title">
-            <h1>Play Off Rentals</h1>
-            <h6 class="title-cap">"Your Way to the ARCADE"</h6>
+          <div class="spacer-down">
+            <h1 class="title press-start-2p-regular">Play Off Rentals</h1>
+            <h6 class="title-cap press-start-2p-regular">"Your Way to the ARCADE"</h6>
           </div>
           <div class="row">
             <div class="col">
@@ -36,9 +39,8 @@ export function App() {
                     <br></br> <br></br> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                     <br></br> <br></br> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                     <br></br> <br></br> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                    
                   </p>
-                </div>
+              </div>
             </div>
           </div>
         </body>
@@ -83,7 +85,6 @@ export function App() {
                     </div>
         </footer>
       </div>
-      
     </div>
   );
 }

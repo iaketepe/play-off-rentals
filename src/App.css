@@ -15,34 +15,9 @@ header {
   border: 1px solid #F2F597;
 }
 
-body {
-  background-color: #0A1D56;
-}
-
-.bodylike {
-  background-color: #0A1D56;
-  display: flex;
-  color: #F2F597;
-  padding-top: 2.5%;
-  padding-bottom: 3.5%;
-  padding-left: 3vw;
-}
-
-footer {
-  background-color: #282c34;
-  display: flex;
-  color: #F2F597;
-  border: 1px solid #F2F597;
-  padding-top: 2.5%;
-  padding-bottom: 3.5%;
-  padding-left: 3vw;
-}
-
-.App-footer {
-  background-color: #282c34;
-  min-width: 40vw;
-  display: flex;
-  color: #282c34;
+.logo {
+  width: 13vw; 
+  height: 12vh;
 }
 
 .new-nav {
@@ -73,29 +48,71 @@ footer {
   
 }
 
-.logo {
-  width: 13vw; 
-  height: 12vh;
-}
-
 .spacer {
   margin-top: 3vh;
 }
 
-.box-pl {
-  border: 1px solid #F2F597;
-  width: 30vw;
-  height: 70vh;
+.spacer-down {
+  margin-bottom: 3vh;
+}
+
+body {
+  background-color: #0A1D56;
+}
+
+.bodylike {
+  background-color: #0A1D56;
+  display: flex;
+  color: #F2F597;
+  padding-top: 2.5%;
+  padding-bottom: 3.5%;
+  padding-left: 3vw;
+}
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .title {
-  margin-left: 30vw;
-  margin-bottom: 3vh;
+  padding-left: 21vw;
 }
 
 .title-cap {
   margin-left: 2vw;
+  padding-left: 25vw;
 }
+
+
+
+footer {
+  background-color: #282c34;
+  display: flex;
+  color: #F2F597;
+  border: 1px solid #F2F597;
+  padding-top: 2.5%;
+  padding-bottom: 3.5%;
+  padding-left: 3vw;
+}
+
+.App-footer {
+  background-color: #282c34;
+  min-width: 40vw;
+  display: flex;
+  color: #282c34;
+}
+
+
+.box-pl {
+  border: 1px solid #F2F597;
+  width: 40vw;
+  height: 75vh;
+}
+
+
+
+
 
 @media only screen and (max-width: 1130px) {
 

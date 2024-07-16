@@ -1,0 +1,21 @@
+.inventory-button {
+    background-color: #492E87;
+    color: #F2F597;
+    text-decoration: none;
+    text-align: center;
+    padding: 1vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    border: 1px solid #F2F597;
+    border-radius: 7px;
+  }
+  
+
+.card {
+    margin-right: 2vw;
+  }
+
+  .img-resize {
+    width: auto;
+    height: 262px;
+  }
