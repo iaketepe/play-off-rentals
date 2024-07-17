@@ -1,0 +1,13 @@
+
+.contact-button {
+    background-color: #492E87;
+    color: #F2F597;
+    text-align: center;
+    margin-left: 3vw;
+    padding: 1vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    width: 70vw;
+    border: 1px solid #F2F597;
+    border-radius: 7px;
+  }
