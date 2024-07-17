@@ -40,7 +40,7 @@ export const Inventory = () => {
                             <h5 class="card-title">Pac-Man (1980)</h5>
                             <p class="card-text">Navigate the maze, munch on dots, and outsmart the ghosts in this timeless arcade classic by Namco!</p>
                             <h6 class="card-title">Renting Price: 50$ / Day</h6>
-                            <a href="#" ><button class="inventory-button">Go to Rent</button></a>
+                            <a href="/en/Rent" ><button class="inventory-button">Go to Rent</button></a>
                         </div>
                     </div>
 
@@ -50,7 +50,7 @@ export const Inventory = () => {
                             <h5 class="card-title">Space Invaders (1978)</h5>
                             <p class="card-text">Defend the Earth from waves of alien invaders in this groundbreaking shooter by Taito!</p>
                             <h6 class="card-title">Renting Price: 50$ / Day</h6>
-                            <a href="#" ><button class="inventory-button">Go to Rent</button></a>
+                            <a href="/en/Rent" ><button class="inventory-button">Go to Rent</button></a>
                         </div>
                     </div>
 
@@ -70,7 +70,7 @@ export const Inventory = () => {
                             <h5 class="card-title">Street Fighter II (1991)</h5>
                             <p class="card-text">Step into the ring and challenge iconic fighters like Ryu and M. Bison in this legendary fighting game by Capcom!</p>
                             <h6 class="card-title">Renting Price: 50$ / Day</h6>
-                            <a href="#" ><button class="inventory-button">Go to Rent</button></a>
+                            <a href="/en/Rent" ><button class="inventory-button">Go to Rent</button></a>
                         </div>
                     </div>
 
