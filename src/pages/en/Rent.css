@@ -1,0 +1,18 @@
+.checkout-box {
+    background-color: #282c34;
+    color: #F2F597;
+    border: 2px solid #F2F597;
+}
+
+
+.submit-button {
+    background-color: #492E87;
+    color: #F2F597;
+    text-align: center;
+    padding: 1vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    width:35vw;
+    border: 1px solid #F2F597;
+    border-radius: 7px;
+  }

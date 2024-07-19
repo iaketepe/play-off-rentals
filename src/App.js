@@ -16,7 +16,7 @@ export function App() {
                             <a class="nav-items" href="/">Home</a>
                             <a class="nav-items" href="/en/Inventory">Inventory</a>
                             <a class="nav-item-button" href="/en/Rent">Rent</a>
-                            <a class="nav-items" href="resume.html">Fr</a>
+                            <a class="nav-items" href="/fr/">Fr</a>
                             <a class="nav-items button-contact" href="/en/Contact">Contact Us</a>
                         </div>
                         <img src={logo} class="logo" alt="Play Off Rentals Logo" />
@@ -35,11 +35,13 @@ export function App() {
             <div class="col">
               <div>
                   <h1>About Us</h1>
-                  <p>LOREMERMEMRS OSDF FSADF MSDF ASDF SDF SDF SD"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                    <br></br> <br></br> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                    <br></br> <br></br> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                    <br></br> <br></br> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                  
+                  <p>Welcome to Play Off Rentals, your premier destination for rental arcade games! We specialize in providing a wide variety of classic and modern arcade games for all types of events and gatherings. Whether you're hosting a corporate event, birthday party, wedding, or any other special occasion, we have the perfect arcade games to bring fun and excitement to your guests.
+                  <br /> <br /> At Play Off Rentals, we believe in creating memorable experiences through the joy of gaming. Our extensive selection includes everything from timeless classics like Pac-Man and Donkey Kong to the latest and greatest in arcade gaming. Each game is carefully maintained and regularly serviced to ensure the best possible experience for our clients.
+                  <br /> <br /> Our team is dedicated to delivering exceptional customer service and ensuring that your event is a resounding success. We offer flexible rental packages tailored to meet your specific needs and budget. From delivery and setup to on-site support, we handle all the details so you can focus on enjoying the festivities.
+                  <br /> <br /> Thank you for considering Play Off Rentals for your arcade game rental needs. We look forward to helping you create an unforgettable event!
                   </p>
+
               </div>
             </div>
           </div>

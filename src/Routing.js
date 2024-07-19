@@ -4,6 +4,7 @@ import { Inventory } from "./pages/en/Inventory";
 import { Rent } from "./pages/en/Rent";
 import { Contact } from "./pages/en/Contact";
 import { Thanks } from "./pages/en/Thanks";
+import { AppFr } from "./pages/fr/AppFr";
 
 
 
@@ -19,7 +20,7 @@ export const Routing = () => {
                     <Route path="/en/Thanks" element={<Thanks />}></Route>
                 </Route>
                 <Route path="/fr">
-                    <Route path="/fr/" element={<App />}></Route>
+                    <Route path="/fr/" element={<AppFr />}></Route>
                     <Route path="/fr/Inventory" element={<Inventory />}></Route>
                     <Route path="/fr/Rent" element={<Rent />}></Route>
                     <Route path="/fr/Contact" element={<Contact />}></Route>
