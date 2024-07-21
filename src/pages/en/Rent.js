@@ -32,7 +32,7 @@ export const Rent = () => {
             </header>
             <body class="row bodylike">
                 <div class="spacer-down">
-                    <h1 class="press-start-2p-regular">Search Inventory</h1>
+                    <h1 class="press-start-2p-regular">Rent Inventory</h1>
                 </div>
                 <div class="row">
                     <div class="col">
@@ -101,7 +101,7 @@ export const Rent = () => {
                             </div>
                         </div>
                         <br></br>
-                        <a href="/en/Thanks"><button class="submit-button">Submit</button></a>
+                        <a href="/en/Payment"><button class="submit-button">Submit</button></a>
                     </div>
                 </div>
 

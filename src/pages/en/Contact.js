@@ -19,7 +19,7 @@ export const Contact = () => {
                                     <a class="nav-items" href="/">Home</a>
                                     <a class="nav-items" href="/en/Inventory">Inventory</a>
                                     <a class="nav-item-button" href="/en/Rent">Rent</a>
-                                    <a class="nav-items" href="resume.html">Fr</a>
+                                    <a class="nav-items" href="/fr/">Fr</a>
                                     <a class="nav-items button-contact" href="/en/Contact">Contact Us</a>
                                 </div>
                                 <img src={logo} class="logo" alt="Play Off Rentals Logo" />

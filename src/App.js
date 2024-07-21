@@ -1,4 +1,5 @@
 import logo from './logo.png';
+import mArc from './Main-Arcade.jpg';
 import './App.css';
 
 export function App() {
@@ -30,7 +31,8 @@ export function App() {
           </div>
           <div class="row">
             <div class="col">
-              <div class='box-pl'>IMG</div>
+              <div class='spacer'></div>
+              <img src={mArc} class="" alt="Homepage Arcade Img" />
             </div>
             <div class="col">
               <div>

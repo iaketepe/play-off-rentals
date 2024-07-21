@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from '../../logo.png';
+import mArc from '../../Main-Arcade.jpg';
 import '../../App.css';
 import '../en/Inventory.css';
 import '../en/Rent.css';
@@ -29,11 +30,12 @@ export const AppFr = () => {
         <body class="row bodylike">
           <div class="spacer-down">
             <h1 class="title press-start-2p-regular">Play Off Rentals</h1>
-            <h6 class="title-cap press-start-2p-regular">"Your Way to the ARCADE"</h6>
+            <h6 class="title-cap press-start-2p-regular">"Votre chemin vers l'ARCADE"</h6>
           </div>
           <div class="row">
             <div class="col">
-              <div class='box-pl'>IMG</div>
+              <div class='spacer'></div>
+                <img src={mArc} class="" alt="Homepage Arcade Img" />
             </div>
             <div class="col">
               <div>
